@@ -1,5 +1,5 @@
 /* ============================================================
-   Kawaii Diary — Stage 1 (restructured)
+   Spring Diary — Stage 1 (restructured)
    Room + Bookshelf + one fully working monthly Book
    Storage: localStorage (single device, per browser)
    ============================================================ */

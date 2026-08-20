@@ -1,4 +1,4 @@
-const CACHE_NAME = 'kawaii-diary-v2';
+const CACHE_NAME = 'Spring-diary-v2';
 const APP_SHELL = [
   './',
   './index.html',
